@@ -13,13 +13,12 @@ Grupo: PE102
 Se han implementado los tres objetos requeridos para la primera escena (Esfera, cubo y plano).
 En los siguientes gif se pueden varias de las distintas ejecuciones con cada una de las restricciones.
 
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
+![](https://github.com/alu0101244488/Interfaces-Inteligentes-introduccion-a-los-scripts-de-unity/blob/master/img/1.%20sin%20fisicas.png?raw=true)
+![](https://github.com/alu0101244488/Interfaces-Inteligentes-introduccion-a-los-scripts-de-unity/blob/master/img/2.%20esfera%20con%20fisicas.gif?raw=true)
+![](https://github.com/alu0101244488/Interfaces-Inteligentes-introduccion-a-los-scripts-de-unity/blob/master/img/3.%20esfera%20y%20cubo%20con%20fisicas.gif?raw=true)
+![](https://github.com/alu0101244488/Interfaces-Inteligentes-introduccion-a-los-scripts-de-unity/blob/master/img/4.%20la%20masa%20de%20la%20esfera%20es%2010%20veces%20la%20del%20cubo.gif?raw=true)
+![](https://github.com/alu0101244488/Interfaces-Inteligentes-introduccion-a-los-scripts-de-unity/blob/master/img/5.%20esfera%20con%20fisicas%20y%20cubo%20isTrigger.gif?raw=true)
+![](https://github.com/alu0101244488/Interfaces-Inteligentes-introduccion-a-los-scripts-de-unity/blob/master/img/6.%20esfera%20con%20fisicas%20y%20cubo%20isTrigger%20con%20fisicas.gif?raw=true)
 
 ### Ejercicio 2
 
@@ -27,7 +26,9 @@ Se ha implemenado al personaje utilizando los ejes horizontal y vertical utiliza
 las entradas de las flechas desde el input manager. También se ha añadido la rotación en el eje y empleando el eje x
 del ratón. Este movimiento se encuentra implementado en el script **characterController.cs**.
 
-![]()
+![](https://github.com/alu0101244488/Interfaces-Inteligentes-introduccion-a-los-scripts-de-unity/blob/master/img/input%20manager.png?raw=true)
+
+![](https://github.com/alu0101244488/Interfaces-Inteligentes-introduccion-a-los-scripts-de-unity/blob/master/img/7.%20Personaje%20que%20se%20mueve%20con%20las%20teclas%20wasd%20y%20con%20el%20eje%20x%20del%20raton.gif?raw=true)
 
 
 ### Ejercicio 2
@@ -43,5 +44,5 @@ implementación en:
 
 Aquí se muestra una ejecución al compleo del proyecto:
 
-![]()
+![](https://github.com/alu0101244488/Interfaces-Inteligentes-introduccion-a-los-scripts-de-unity/blob/master/img/8.%20implementacion%20de%20las%20acciones.gif?raw=true)
 
