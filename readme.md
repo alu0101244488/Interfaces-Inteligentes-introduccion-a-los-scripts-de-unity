@@ -31,7 +31,7 @@ del ratón. Este movimiento se encuentra implementado en el script **characterCo
 ![](https://github.com/alu0101244488/Interfaces-Inteligentes-introduccion-a-los-scripts-de-unity/blob/master/img/7.%20Personaje%20que%20se%20mueve%20con%20las%20teclas%20wasd%20y%20con%20el%20eje%20x%20del%20raton.gif?raw=true)
 
 
-### Ejercicio 2
+### Ejercicio 3
 
 Por último nos encontramos con la implementación de distintos elementos. Estos se encuentran por orden de 
 implementación en:
